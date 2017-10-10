@@ -1,6 +1,6 @@
 # simple-calc
 
-INFO 449 - HW2
+INFO 449 - HW2 <br />
 A console calculator using MacOS command line tool. Operation includes (+, -, *, /, count, avg, fact).
 
 ## How to use
